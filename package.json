@@ -1,0 +1,20 @@
+{
+  "name": "lorenz-portfolio",
+  "version": "1.0.0",
+  "description": "Lorenz Llamas - Collections & Account Operations Professional",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "^18",
+    "react-dom": "^18"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "latest"
+  }
+}
