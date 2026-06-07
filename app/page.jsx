@@ -2,7 +2,8 @@ import React from 'react';
 import Header from '@/components/Header';
 import Hero from '@/components/Hero';
 import About from '@/components/About';
-import Experience from '@/components/Experience';
+import Resume from '@/components/Resume';
+import ExperienceDetail from '@/components/ExperienceDetail';
 import Skills from '@/components/Skills';
 import JokeGenerator from '@/components/JokeGenerator';
 import Contact from '@/components/Contact';
@@ -14,7 +15,8 @@ export default function Home() {
       <Header />
       <Hero />
       <About />
-      <Experience />
+      <Resume />
+      <ExperienceDetail />
       <Skills />
       <JokeGenerator />
       <Contact />
